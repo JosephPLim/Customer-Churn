@@ -24,14 +24,14 @@ Taken [from Kaggle](https://www.kaggle.com/competitions/customer-churn-predictio
 
 ### Results
 
-#### Title 1
-![sample image](ex.png)
+#### Churn Based on # Of Calls to Customer Service
+![sample image](churn.png)
 
-> explanation of title 1 here
+> Please view this image in "Day Mode" for best viewability. We can see from this graph, that after 3 phone calls, the percentage of customers that churn rises from a relatively stable 10%, to a more volatile > 40%, and customers fully churn at 9 calls.
 
-#### Title 2
-![sample image](ex.png)
-> Explanation of title 2 here
+#### Churn in relation to average total charge
+![sample image](churncharge.png)
+> Please view this image in "Day Mode" for best viewability. We can see from this graph, that customers that churn, are paying more daily than customers that don't churn, and at roughly $5 more than non-churning customers.
 
 ### Model
 The final model used was a tuned Decision Tree, which has an accuracy score of 94% classification. A logistic regression was created and tested, however after tuning, failed to reach a higher accuracy score. 
