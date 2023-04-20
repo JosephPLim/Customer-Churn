@@ -54,6 +54,3 @@ Analyzing overall correlations showed a distinct relationship between churn and 
 ### For further information
 
 Please send me an email @ jplim96@gmail.com. 
-
-### Overall time worked:
-Approximately 9 hours of work went into this project. The project was started on 2/10/2022, and was finished on 3/3/2023. Roughly three hours per week was put into the project.
